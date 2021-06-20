@@ -133,14 +133,15 @@ header {
         display: flex;
         align-items: center;
     }
-    
-    /* section {
-        background: lightblue;
-    } */
+
+    .about-me {
+        width: 50%;
+    }
     
     .articles.inverse {
         background: #99D930;
         color: #252525;
+        width: 50%;
     }
     
     .articles.inverse .accent-text,
